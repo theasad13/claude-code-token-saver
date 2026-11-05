@@ -1,4 +1,4 @@
-# Relay Kit: Urdu guide (Roman Urdu)
+# Claude Code Token Saver (Relay Kit): Roman Urdu guide
 
 [English README](README.md)
 
@@ -26,7 +26,7 @@ claude --version
 
 ## 2. Kit install (sirf ek baar)
 
-1. Is repo ko download karein: GitHub par **Code → Download ZIP**, phir extract karein. Ya: `git clone https://github.com/theasad13/claude-code-relay-kit.git`
+1. Is repo ko download karein: GitHub par **Code → Download ZIP**, phir extract karein. Ya: `git clone https://github.com/theasad13/claude-code-token-saver.git`
 2. PowerShell mein, us folder ke andar:
    ```
    powershell -NoProfile -ExecutionPolicy Bypass -File .\INSTALL.ps1

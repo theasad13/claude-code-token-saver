@@ -1,8 +1,10 @@
-# Claude Code Relay Kit
+# Claude Code Token Saver
 
-**Claude Code plans and reviews. A separate worker writes the code.**
+**Built to save tokens and speed up your work: Claude Code plans and reviews, and a separate worker writes the code.**
 
-A free workflow kit for [Claude Code](https://code.claude.com). Claude turns your idea into a spec and small tasks. A worker (Sonnet, Codex CLI, Qwen Code or Kimi Code) does the tasks. Claude then checks every change before anything is merged.
+A free workflow kit for [Claude Code](https://code.claude.com), also called Relay Kit. Your main Claude model spends its tokens on planning and review, not on writing every line. Claude turns your idea into a spec and small tasks. A worker (Sonnet, Codex CLI, Qwen Code or Kimi Code) does the tasks. Claude then checks every change before anything is merged.
+
+Tasks then run one after another with little manual work from you.
 
 You don't need to be a developer. You can describe your idea in any language.
 
@@ -29,7 +31,7 @@ Every batch stays on its own branch (`relay/<batch-name>`), so your main branch 
 1. Download this repo: **Code → Download ZIP**, then extract it. Or clone it:
 
    ```bash
-   git clone https://github.com/theasad13/claude-code-relay-kit.git
+   git clone https://github.com/theasad13/claude-code-token-saver.git
    ```
 
 2. Open PowerShell inside the folder and run:
